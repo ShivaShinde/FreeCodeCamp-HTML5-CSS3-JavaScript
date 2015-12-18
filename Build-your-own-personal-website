@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+  <title>Shivasai Shinde</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("http://i.imgur.com/n0Jnzbw.jpg");
+      background-size: cover;
+      background-position: center;
+      color: cyan;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <img style="width: 200px;height: 228px" src="http://i.imgur.com/InLniBL.jpg">
+  <p>Hi! I'm Shiva, a Boston based Software Engineer. Say hello!</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
